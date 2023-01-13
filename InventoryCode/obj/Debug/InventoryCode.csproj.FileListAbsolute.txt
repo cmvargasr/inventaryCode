@@ -1,0 +1,10 @@
+Z:\upch\outi-dga\inventaryCode\InventoryCode\InventoryCode\bin\Debug\InventoryCode.exe.config
+Z:\upch\outi-dga\inventaryCode\InventoryCode\bin\Debug\InventoryCode.exe.config
+Z:\upch\outi-dga\inventaryCode\InventoryCode\bin\Debug\InventoryCode.exe
+Z:\upch\outi-dga\inventaryCode\InventoryCode\bin\Debug\InventoryCode.pdb
+Z:\upch\outi-dga\inventaryCode\InventoryCode\obj\Debug\InventoryCode.csprojResolveAssemblyReference.cache
+Z:\upch\outi-dga\inventaryCode\InventoryCode\obj\Debug\InventoryCode.Form1.resources
+Z:\upch\outi-dga\inventaryCode\InventoryCode\obj\Debug\InventoryCode.Properties.Resources.resources
+Z:\upch\outi-dga\inventaryCode\InventoryCode\obj\Debug\InventoryCode.csproj.GenerateResource.Cache
+Z:\upch\outi-dga\inventaryCode\InventoryCode\obj\Debug\InventoryCode.exe
+Z:\upch\outi-dga\inventaryCode\InventoryCode\obj\Debug\InventoryCode.pdb
